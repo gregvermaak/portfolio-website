@@ -123,7 +123,7 @@ export default function Home() {
 							<Image alt="portfolio" src={computer} width={100} height={100} />
 							<h3 className="text-lg font-medium pt-8 pb-2">Client Side</h3>
 							<h4 className="py-4 text-teal-600">Tools I Use</h4>
-							<div className="flex items-center justify-around text-5xl mt-6">
+							<div className="flex items-center justify-around text-2xl mt-6 md:text-5xl">
 								<p className="text-gray-800 py-1">
 									<SiHtml5 />
 								</p>
@@ -148,7 +148,7 @@ export default function Home() {
 							<Image alt="portfolio" src={code} width={100} height={100} />
 							<h3 className="text-lg font-medium pt-8 pb-2">Server Side</h3>
 							<h4 className="py-4 text-teal-600">Tools I Use</h4>
-							<div className="flex items-center justify-around text-5xl mt-6">
+							<div className="flex items-center justify-around text-2xl mt-6 md:text-5xl">
 								<p className="text-gray-800 py-1">
 									<SiNodedotjs />
 								</p>
@@ -166,7 +166,7 @@ export default function Home() {
 								Databases & Miscellaneous
 							</h3>
 							<h4 className="py-4 text-teal-600">Tools I Use</h4>
-							<div className="flex items-center justify-around text-5xl mt-6">
+							<div className="flex items-center justify-around text-2xl mt-6 md:text-5xl">
 								<p className="text-gray-800 py-1">
 									<SiMongodb />
 								</p>
