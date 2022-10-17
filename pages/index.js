@@ -39,7 +39,7 @@ export default function Home() {
 							<li>
 								<a
 									className="bg-gradient-to-b from-emerald-500 to-emerald-600 text-white px-4 py-2 rounded-md ml-8"
-									href="#"
+									href="https://docs.google.com/document/d/1dtxUSWEwS8OYWl2kkcodQ9NGT8HkZZQ-hP3smy6ew-E/edit?usp=sharing"
 								>
 									Resume
 								</a>
